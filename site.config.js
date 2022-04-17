@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '9fc4005ace274416bf5d756d02c4700a',
+  rootNotionPageId: '403d1c27410c4594b9e08c18fec8f2d6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "d438f9ea-c9ef-4898-ab16-bc9242467f4e",
+  rootNotionSpaceId: "73fff1ec-3185-4e4f-9433-65ce77bea0c3",
 
   // basic site info (required)
-  name: 'lizhimiao的博客',
-  domain: 'lizhimiao.com',
-  author: 'zhimiao li',
+  name: 'D_super 的博客',
+  domain: 'dsuper.eu.org',
+  author: 'D_super',
 
   // open graph metadata (optional)
-  description: '笔记、博客和其他记录',
-  socialImageTitle: 'lizhimiao的博客',
-  socialImageSubtitle: '👋',
+  description: '生活是一场旅行',
+  socialImageTitle: 'D_super的博客',
+  socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: '_lizhimiao',
-  github: 'zhimiaoli',
-  linkedin: 'lizhimiao',
+  twitter: 'D_superheros',
+  github: '',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -32,7 +32,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: "zhimiaoli/lizhimiao-dot-com-comment",
+  utterancesGitHubRepo: "SkysCrystal/SWIN-Comment-System",
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
@@ -49,10 +49,6 @@ module.exports = {
   // }
   pageUrlOverrides: 
   {
-    '/notion-as-blog': '2ac48272b7644cb0b0f8d19a104ddf05',
-    '/refers': '68892ddbd87341a5940b08fe9f3d079f',
-    '/digital-noting-tools-i-use': '7a26482a6a774a8dbd4872d9023b3957',
-    '/about': '0da3484664b44dcaa555509e3eb927f1',
-    '/archive': '299f3286fd3643ddbf6f4489b4813e81'
+    '/history': '2dfcb7eb92a54b3cb997d17a3aadb42e'
   }
 }

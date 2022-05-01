@@ -27,6 +27,9 @@ export default siteConfig({
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
+  // image CDN host to proxy all image requests through (optional)
+  // NOTE: this requires you to set up an external image proxy
+
   // Utteranc.es comments via GitHub issue comments (optional)
   //utterancesGitHubRepo: "SkysCrystal/SWIN-Comment-System",
 
@@ -46,7 +49,7 @@ export default siteConfig({
   pageUrlOverrides:   {
     '/history': '2dfcb7eb92a54b3cb997d17a3aadb42e',
     '/about': '76d207ffc05f4ef2bfff4747d1c55063'
-},
+  },
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages

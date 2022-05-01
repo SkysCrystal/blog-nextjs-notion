@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'D_super 的博客',
-  domain: 'dsuper.eu.org',
+  domain: 'https://dsuper.eu.org',
   author: 'D_super',
 
   // open graph metadata (optional)

@@ -1,14 +1,11 @@
+My Blog site: <p align="center"><a href=https://dsuper.eu.org>Blog - Swin Space</a> Based on this Repo.
 
+Fork from: <p align="center"><a href="https://github.com/zhimiaoli/nextjs-notion-blog">zhimiaoli/nextjs-notion-blog</a> And View it [live](https://lizhimiao.com) 
 
-Fork from <p align="center"><a href="https://transitivebullsh.it/nextjs-notion-starter-kit">transitivebullsh.it/nextjs-notion-starter-kit</a> with some modifications.
+Thanks for the elegant CSS designed by @zhimiaoli.
+
+Orginate from: <p align="center"><a href="https://transitivebullsh.it/nextjs-notion-starter-kit">transitivebullsh.it/nextjs-notion-starter-kit</a> with some modifications.
   
-View it live: https://lizhimiao.com
-  
- 
-## TODO
-- [x] Google Analytics.
-- [x] typekit font.
-- [x] front-page notion's default gallery-style table view.
-- [x] remove sidebar social links.
-- [ ] 不蒜子
-  
+Also thanks for huge contribution by @transitive-bullshit.
+
+If you like this blog CSS design, please fork https://github.com/zhimiaoli/nextjs-notion-blog.

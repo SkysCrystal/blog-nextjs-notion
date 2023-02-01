@@ -20,6 +20,9 @@ export default siteConfig({
   twitter: 'D_superheros',
   github: '',
   linkedin: '',
+  // mastodon: '#', // optional mastodon profile URL, provides link verification
+  // newsletter: '#', // optional newsletter URL
+  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -46,7 +49,7 @@ export default siteConfig({
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  pageUrlOverrides:   {
+  pageUrlOverrides: {
     '/history': '2dfcb7eb92a54b3cb997d17a3aadb42e',
     '/about': '76d207ffc05f4ef2bfff4747d1c55063'
   },

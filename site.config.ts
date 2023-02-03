@@ -62,7 +62,7 @@ export default siteConfig({
     {
       title: 'About',
       pageId: '76d207ffc05f4ef2bfff4747d1c55063'
-    }
+    },
     {
       title: 'TimeLine',
       pageId: 'cb012314c5d744d3a570dd5f25d3cb40'

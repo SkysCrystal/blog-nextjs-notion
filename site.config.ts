@@ -51,17 +51,21 @@ export default siteConfig({
   // }
   pageUrlOverrides: {
     '/history': '2dfcb7eb92a54b3cb997d17a3aadb42e',
-    '/about': '76d207ffc05f4ef2bfff4747d1c55063'
+    '/about': '76d207ffc05f4ef2bfff4747d1c55063',
+    '/timeline': 'cb012314c5d744d3a570dd5f25d3cb40'
   },
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  // navigationStyle: 'default'
   navigationStyle: 'custom',
   navigationLinks: [
     {
       title: 'About',
       pageId: '76d207ffc05f4ef2bfff4747d1c55063'
+    }
+    {
+      title: 'TimeLine',
+      pageId: 'cb012314c5d744d3a570dd5f25d3cb40'
     }
     // {
     //   title: 'Contact',

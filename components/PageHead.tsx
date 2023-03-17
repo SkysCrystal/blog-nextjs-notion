@@ -91,9 +91,7 @@ export const PageHead: React.FC<
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-G6E86FELGH', {
-              page_path: window.location.pathname,
-            });
+            gtag('config', 'G-G6E86FELGH');
           `,
             }}
           />

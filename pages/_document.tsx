@@ -66,7 +66,7 @@ export default class MyDocument extends Document {
             <Main />
 
             <NextScript />
-            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147733158-1"></script>
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-G6E86FELGH"></script>
             <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
             <script
             dangerouslySetInnerHTML={{
@@ -74,7 +74,7 @@ export default class MyDocument extends Document {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'UA-147733158-1', {
+            gtag('config', 'G-G6E86FELGH', {
               page_path: window.location.pathname,
             });
           `}}
